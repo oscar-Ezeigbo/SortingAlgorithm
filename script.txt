@@ -1,0 +1,16 @@
+Enter number of elements (less than 100):8
+input numbers:12
+1
+4
+17
+8
+9
+31
+10
+unsorted array: 12 1 4 17 8 9 31 10
+
+sorted array: 1 4 8 9 10 12 17 31
+
+C:\Users\oscar\source\repos\MergeSort\Debug\MergeSort.exe (process 2692) exited with code 0.
+Press any key to close this window . . .
+
